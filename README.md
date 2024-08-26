@@ -7,7 +7,8 @@ data/: Contains the dataset (bank.csv) used for analysis. scripts/: Python scrip
 **Prerequisites**
 
 Python 3.x PySpark Hadoop Hive Pandas Matplotlib
-**
+
+
 **Results and Insights****
 
 Identified the top 3 professions with the highest loan default rates. Analyzed the success rate of different contact methods for term deposit subscriptions. Evaluated the correlation between age and account balance. Implemented real-time transaction analysis and model predictions using PySpark Streaming.
